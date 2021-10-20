@@ -22,5 +22,5 @@
 ## How to run code in this repo?
 - To run this app, click live github website link given below.
 - Live link: https://capstone-project-success-factor.netlify.app/
-- Repo Link: 
+- Repo Link:  https://github.com/Aqeela66/Capstone_Project
 
